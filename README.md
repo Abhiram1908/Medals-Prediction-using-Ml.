@@ -25,8 +25,8 @@ You can find the code for this project [here](https://github.com/Abhiram1908/Med
 
 File overview:
 
-* `machine_learning.ipynb` - the main project code
-* `data_prep.ipynb` - the code to generate the team-level dataset from an athlete-level dataset
+* `Medals_Prediction.ipynb` - the main project code
+  
 
 # Local Setup
 
